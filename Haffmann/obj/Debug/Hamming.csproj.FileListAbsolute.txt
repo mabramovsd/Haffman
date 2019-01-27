@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\user\source\repos\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Users\user\source\repos\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.Form1.resources
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.pdb
